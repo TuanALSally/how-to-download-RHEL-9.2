@@ -1,21 +1,15 @@
 # How to Download Red Hat Enterprise Linux (RHEL) 9.2
 
-## 📌 Overview
+##  Overview
 
 
-> ⚠️ RHEL requires a free Red Hat account. This guide explains that process clearly.
-
----
-
-## 🎯 Who This Guide Is For
-
-* Students learning Linux or system administration
-* Beginners installing RHEL for labs or practice
-* Users confused by Red Hat’s subscription process
+>  RHEL requires a free Red Hat account. This guide explains that process clearly.
 
 ---
+ 
+---
 
-## 🧾 Prerequisites
+##  Prerequisites
 
 Before downloading RHEL 9.2, make sure you have:
 
@@ -23,9 +17,9 @@ Before downloading RHEL 9.2, make sure you have:
 * Internet connection
 * At least **20 GB disk space** for installation
  
-## 📥 Step‑by‑Step Download Instructions
+##  Step‑by‑Step Download Instructions
 
-### 1️⃣ Create a Free Red Hat Account
+### 1️ Create a Free Red Hat Account
 
 1. Go to the official Red Hat website
 2. Click **Register**
@@ -33,13 +27,13 @@ Before downloading RHEL 9.2, make sure you have:
  ![Step 1 screenshot](step1.png)
 ---
 
-### 2️⃣ Log In to Red Hat Customer Portal
+### 2️ Log In to Red Hat Customer Portal
 
 * Sign in using the account you just created
 
 ---
 
-### 3️⃣ Navigate to RHEL Downloads
+### 3️ Navigate to RHEL Downloads
 
 1. Go to **Products → Red Hat Enterprise Linux**
 2. Select **Version 9.2**
@@ -47,7 +41,7 @@ Before downloading RHEL 9.2, make sure you have:
  ![Step 3 screenshot](step2.png)
 ---
 
-### 4️⃣ Download the ISO File
+### 4️ Download the ISO File
 
 * Click **Download ISO**
 * File size is ~8 GB
